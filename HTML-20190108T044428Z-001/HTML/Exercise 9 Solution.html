@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>HTML Course</title>
+</head>
+
+<body>
+    <form>
+        <fieldset>
+            <legend>Like HTML</legend>
+            <input type="radio" name="htmlVote" id="r1" value="yes">
+            <label for="r1">Yes</label>
+            <input type="radio" name="htmlVote" id="r2" value="no">
+            <label for="r2">No</label>
+        </fieldset>
+        <label for="q1">How old are you?</label>
+        <input type="number" min="12" max="120" name="age" id="q1">
+        <br>
+        <label for="q2">What's your favorite fruit?</label>
+        <input type="text" id="q2" name="fav" list="list1">
+        <datalist id="list1">
+            <option>Banana</option>
+            <option>Cherry</option>
+            <option>Apple</option>
+        </datalist>
+        <br>
+        <label for="q3">What is your email?</label>
+        <input type="email" id="q3" name="email">
+        <br>
+        <label for="q4">Leave a short message</label>
+        <textarea id="q4" name="message" rows="5"></textarea>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+
+</html>

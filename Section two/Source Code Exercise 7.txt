@@ -1,0 +1,23 @@
+Source Code Exercise 7
+Section 2, Lecture 41
+<ul>
+    <li>HTML Website</li>
+    <li>Tag Structure</li>
+    <ul>
+        <li>
+            <h2>My Website</h2>
+            <ol>
+                <li>DOCTYPE</li>
+                <li>HTML</li>
+                <li>Head</li>
+                <ol>
+                    <li>H1</li>
+                    <li>Paragraph</li>
+                    <li>Paragraph</li>
+                    <li>Paragraph</li>
+                    <li>Paragraph</li>
+                </ol>
+            </ol>
+        </li>
+    </ul>
+</ul>
