@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/introduction-to-html-a-complete-beginner-to-expert-course-video/9781838554125)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Introduction-to-HTML-A-Complete-Beginner-to-Expert-Course
 Code repository for Introduction to HTML: A Complete Beginner to Expert Course, Published by Packt
 # Introduction to HTML: A Complete Beginner to Expert Course
