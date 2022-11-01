@@ -35,7 +35,3 @@ This course has the following software requirements:<br/>
 
 * [Introduction to Bayesian Analysis in Python [Video]](https://www.packtpub.com/networking-and-servers/introduction-bayesian-analysis-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781788997010)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781838554125">https://packt.link/free-ebook/9781838554125 </a> </p>
